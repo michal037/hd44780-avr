@@ -8,7 +8,7 @@
 #include <avr/io.h>
 #include <avr/eeprom.h>
 #include <avr/pgmspace.h>
-#include "hd44780/lcd.h"
+#include "lcd.h"
 
 /* Strings */
 char strA[] = "HD44780";
