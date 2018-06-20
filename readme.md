@@ -1,4 +1,4 @@
-# *HD44780 AVR*
+# HD44780 AVR
 
 ## Notes
 * Library compatible with *5* and *3.3* voltage.
@@ -33,3 +33,7 @@ void lcd_createChar(uint8_t code, uint8_t *pattern);
 void lcd_createChar_P(uint8_t code, const uint8_t *pattern);
 void lcd_createChar_E(uint8_t code, uint8_t *pattern);
 ```
+## License
+[MIT License](license.txt)
+
+Copyright (c) 2018, Michal Kozakiewicz, github.com/michal037
