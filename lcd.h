@@ -2,7 +2,7 @@
  * HD44780 LCD Display Library
  *
  * MIT License
- * Copyright (c) from 2018, Michal Kozakiewicz, github.com/michal037
+ * Copyright (c) 2018, Michal Kozakiewicz, github.com/michal037
  */
 
 #ifndef _DISPLAY_LCD_HD44780_H_
