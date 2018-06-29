@@ -34,6 +34,4 @@ void lcd_createChar_P(uint8_t code, const uint8_t *pattern);
 void lcd_createChar_E(uint8_t code, uint8_t *pattern);
 ```
 ## License
-[MIT License](license.txt)
-
-Copyright (c) 2018, Michal Kozakiewicz, github.com/michal037
+This software is licensed under the MIT License. See the [license file](license.txt) for details.
