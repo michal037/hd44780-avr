@@ -34,8 +34,5 @@ void lcd_createChar_P(uint8_t code, const uint8_t *pattern);
 void lcd_createChar_E(uint8_t code, uint8_t *pattern);
 ```
 
-## Reporting issues
-Please feel free to [report issues](https://github.com/michal037/hd44780-avr/issues).
-
 ## License
 This software is licensed under the MIT License. See the [license file](license.txt) for details.
